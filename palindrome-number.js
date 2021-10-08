@@ -12,5 +12,3 @@ function reverse(n) {
   }
   return false;
 }
-
-const num = 10;

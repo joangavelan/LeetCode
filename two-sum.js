@@ -17,5 +17,3 @@ const twoSum = (nums, target) => {
     }
   }
 };
-
-console.log(twoSum(nums, 8));
